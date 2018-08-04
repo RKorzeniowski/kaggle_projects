@@ -1,0 +1,10 @@
+
+TAXI_FARE:
+-Create basic model in keras
+
+MNIST:
+-Create the same kind of model using tensorflow eager execution
+
+
+Future:
+-Find some nice data to train on some NLP (e.g. sentiment analiysis)
